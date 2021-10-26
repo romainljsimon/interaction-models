@@ -1,5 +1,7 @@
 # Interaction models
 
+This work has been caried out during the 2021 summer as part of an internship at the Centre of Theoretical Physics (CPT) in Marseille under the supervision of Mathieu Génois.
+
 This library implements several models of human face-to-face interactions in a closed environment. The models range from the brownian motion model to some specific pedestrian models.
 
 ## How to run the code ?
@@ -82,3 +84,4 @@ tij.compare_quantities([quantities_brown, quantities_conf], ['Brownian motion', 
 The output of the code is:
 
 ![graphs](../main/rst/images/compare_graphs.png)
+
